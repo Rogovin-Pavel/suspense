@@ -1,0 +1,26 @@
+.about {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  font-size: 1rem;
+  flex-basis: 50%;
+}
+
+.title {
+  color: #fff;
+}
